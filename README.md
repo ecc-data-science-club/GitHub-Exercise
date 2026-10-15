@@ -116,7 +116,7 @@ Min: 169.7
 ```sh
 git add analysis.py
 git commit -m "Fix errors in analysis.py"
-git push origin branch
+git push origin branch-name # branch name will be main unless you made a separate branch
 ```
 
 Make sure you push from the correct branch, whether you've made changes on your main branch or another branch.
