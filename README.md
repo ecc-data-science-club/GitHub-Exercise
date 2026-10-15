@@ -22,8 +22,6 @@ git clone your-copied-fork-url
 code .
 ```
 
-<img src="assets/cloning.png" width="500">
-
 
 If your main branch doesn't exist, create it:
 ```sh
