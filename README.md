@@ -11,13 +11,14 @@
 
 On your forked GitHub repository page (make sure it is the repo on your account), click the green **Code** button and copy the clone URL (HTTPS). 
 
-In your local terminal, navigate to where you store projects and clone your repository:
+In your local terminal, navigate to where you store projects, create a new folder and clone your repository:
 
 ```sh
-ls
-cd python-projects
+ls 
+cd python-projects # where you store all your python folders
+mkdir github-practice # create the new folder for this repo
+cd github-practice
 git clone your-copied-fork-url
-cd GitHub-Exercise
 code .
 ```
 
