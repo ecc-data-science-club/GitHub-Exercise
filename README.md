@@ -95,7 +95,7 @@ python -m pip install pandas
 
 1. Run the code:
 ```sh
-python analysis.py
+python filename.py #e.g. python exercise_one.py
 ```
 2. Fix the paths and information that is left blank in the `#TODO` section.
 
