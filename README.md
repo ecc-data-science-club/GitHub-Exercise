@@ -91,7 +91,7 @@ python -m pip install pandas
 ```
 
 
-# 5. In your local application, find and fix the errors in `analysis.py`.
+# 5. In your local application, find and fix the errors in `exercise_one.py`.
 
 1. Run the code:
 ```sh
